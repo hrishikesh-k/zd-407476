@@ -3,6 +3,7 @@
 
 [[redirects]]
   from = "/_next/image"
+  status = 200
   to = "/.netlify/images?q=:q&url=https://zd-407476-2.netlify.app:url&w=:w"
   [redirects.query]
     q = ":q"
