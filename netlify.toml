@@ -1,0 +1,10 @@
+[images]
+  remote_images = ["https://zd-407476-2.netlify.app/.*"]
+
+[[redirects]]
+  from = "/_next/image"
+  to = "/.netlify/images?q=:q&url=https://zd-407476-2.netlify.app:url&w=:w"
+  [redirects.query]
+    q = ":q"
+    url = ":url"
+    w = ":w"
