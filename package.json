@@ -6,6 +6,7 @@
     "react-dom": "19.1.1"
   },
   "devDependencies": {
+    "@netlify/functions": "4.2.1",
     "@types/node": "24.2.0",
     "@types/react": "19.1.9",
     "@types/react-dom": "19.1.7",
